@@ -19,7 +19,7 @@ import (
 	"github.com/mitchellh/mapstructure"
 	"golang.org/x/xerrors"
 
-	"github.com/coder/terraform-provider-coder/v2/provider/helpers"
+	"github.com/openagent-md/terraform-provider-coder/v2/provider/helpers"
 )
 
 var (

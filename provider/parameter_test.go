@@ -13,7 +13,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/coder/terraform-provider-coder/v2/provider"
+	"github.com/openagent-md/terraform-provider-coder/v2/provider"
 )
 
 func TestParameter(t *testing.T) {

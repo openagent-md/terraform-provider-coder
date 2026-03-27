@@ -1,4 +1,4 @@
-module github.com/coder/terraform-provider-coder/v2
+module github.com/openagent-md/terraform-provider-coder/v2
 
 go 1.25.0
 

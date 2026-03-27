@@ -8,7 +8,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 
-	"github.com/coder/terraform-provider-coder/v2/provider"
+	"github.com/openagent-md/terraform-provider-coder/v2/provider"
 )
 
 // Run the docs generation tool, check its repository for more information on how it works and how docs

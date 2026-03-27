@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/coder/terraform-provider-coder/v2/provider/helpers"
+	"github.com/openagent-md/terraform-provider-coder/v2/provider/helpers"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"

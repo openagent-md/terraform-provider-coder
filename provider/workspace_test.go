@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/coder/terraform-provider-coder/v2/provider"
+	"github.com/openagent-md/terraform-provider-coder/v2/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
 	"github.com/stretchr/testify/assert"

@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/coder/terraform-provider-coder/v2/provider/helpers"
+	"github.com/openagent-md/terraform-provider-coder/v2/provider/helpers"
 )
 
 func TestParseRange(t *testing.T) {
